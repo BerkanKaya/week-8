@@ -4,6 +4,7 @@ function addition(number1, number2){
 }
 document.write("10 + 12 = " + addition (10, 12));
 
+
 function subtraction(number3, number4){
 	total = number3 - number4;
 	return (total);
